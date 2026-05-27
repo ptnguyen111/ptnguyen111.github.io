@@ -190,23 +190,10 @@ tags: ["", ""]
 
 # Title
 ### subtitle
-### Key takeways
+### Key takeaways
 
-  
 
-## 1) Context & Big Idea
-
-- ...
-
-  
-
-## 2) Core Framework (Model)
-
-- ...
-
-  
-
-## 3) Phase Breakdown (Stock Cycle / Wyckoff Lens)
+## Phase Breakdown (Stock Cycle / Wyckoff Lens)
 
 ### Phase 1 — Accumulation
 
@@ -300,24 +287,6 @@ tags: ["", ""]
 
   
 
-## 9) Key Takeaways
-
-- ...
-
-  
-
-## 10) Action Checklist (Next time you open a chart)
-
-- [ ] Identify current phase
-
-- [ ] Confirm with price + volume behavior
-
-- [ ] Define invalidation / stop
-
-- [ ] Plan entry and exit before buying
-
-  
-
 ---
 
   
@@ -334,5 +303,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDM4NTYzNV19
+eyJoaXN0b3J5IjpbLTIxODExNTUxNF19
 -->
