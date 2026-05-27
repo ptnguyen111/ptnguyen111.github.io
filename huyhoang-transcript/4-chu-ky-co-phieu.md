@@ -20,25 +20,23 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
 ## Key Takeaways
 
-- Sai lầm lớn nhất
+- **Sai lầm lớn nhất**
 
-- mua **quá muộn** trong chu kỳ → drawdown nhanh (-10% → -50%)
+	- mua **quá muộn** trong chu kỳ → drawdown nhanh (-10% → -50%)
 
-- Edge thực sự
+	- Edge thực sự
 
-- không phải chọn cổ phiếu → mà là **chọn đúng timing**
+	- không phải chọn cổ phiếu → mà là **chọn đúng timing**
 
-- Xác nhận chính
+- **Xác nhận chính**: dùng **giá + khối lượng** (ai đang kiểm soát: cung hay cầu)
 
-- dùng **giá + khối lượng** (ai đang kiểm soát: cung hay cầu)
+- **Setup xác suất cao**
 
-- Setup xác suất cao
+	- breakout → test vol thấp → breakout tiếp
 
-- breakout → test vol thấp → breakout tiếp
+	- Nguyên tắc sống còn
 
-- Nguyên tắc sống còn
-
-- sai phải **cắt nhanh**, không hi vọng
+- **sai phải **cắt nhanh**, không hi vọng**
 
   
 
@@ -342,6 +340,6 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
 > → **Chỉ mua khi đúng thời điểm trong chu kỳ**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5ODY5MTI3LDEyOTAyMjg4MjcsNzIwNT
-YzODQ3XX0=
+eyJoaXN0b3J5IjpbLTE4NTYwMDk3NiwxMjkwMjI4ODI3LDcyMD
+U2Mzg0N119
 -->
