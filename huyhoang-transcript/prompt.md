@@ -252,78 +252,43 @@ tags: ["", ""]
   
 
 ### Concept 2 — [Name]
-
 - ...
 
-  
-
 ---
 
-  
 
 ## Signals / Indicators (if present)
-
 - Price action:
-
 - Volume (VSA logic):
-
 - Trend / structure:
-
 - Indicators (RSI, MA, etc.):
 
-  
-
 ---
-
-  
 
 ## Execution / Application (if present)
-
 - Entry ideas:
-
 - Exit logic:
-
 - Trade management:
-
 - “Do not trade” conditions:
 
-  
-
 ---
-
-  
 
 ## Risk & Limitations
-
 - When the strategy fails
-
 - Invalid signals
-
 - Risk control insights
 
-  
-
 ---
-
-  
 
 ## Case Study / Examples (if present)
 
 ### Example 1
-
 - Setup:
-
 - Key observation:
-
 - Outcome:
-
 - Lesson:
 
-  
-
 ---
-
-  
 
 ## Common Mistakes & Psychology
 - Behavioral traps:
@@ -342,5 +307,5 @@ tags: ["", ""]
 
 - [ ] Define risk BEFORE execution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMjA5NjU2LDE2ODM1MTI0MTddfQ==
+eyJoaXN0b3J5IjpbMjU0Njc1NjAyLDE2ODM1MTI0MTddfQ==
 -->
