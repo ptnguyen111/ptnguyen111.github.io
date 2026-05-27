@@ -129,10 +129,6 @@ Use this guideline (adapt, don’t force):
 
 - Do NOT invent sections
 
-- Do NOT force “4 phases”, “Wyckoff”, etc. unless explicitly present
-
-  
-
 ---
 
   
@@ -181,11 +177,7 @@ Style: **Brevity + Depth (Intermediate level)**
 
 - Avoid generic textbook explanations
 
-  
-
 ---
-
-  
 
 ## Step 5 — Output Format (Markdown)
 
@@ -345,18 +337,6 @@ tags: ["", ""]
 
 ---
 
-  
-
-## Key Takeaways
-
-- ...
-
-  
-
----
-
-  
-
 ## Action Checklist
 
 - [ ] Identify key concept in chart
@@ -367,5 +347,5 @@ tags: ["", ""]
 
 - [ ] Define risk BEFORE execution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTY1Nzc4OCwxNjgzNTEyNDE3XX0=
+eyJoaXN0b3J5IjpbLTEwNTE2NTkyMjYsMTY4MzUxMjQxN119
 -->
