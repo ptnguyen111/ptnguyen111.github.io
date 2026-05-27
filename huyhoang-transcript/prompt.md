@@ -192,9 +192,9 @@ tags: ["", ""]
 ### subtitle
 ### Key takeaways
 
-## Content part 1
+## Key content
 
-### Phase 1 — Accumulation
+### Part 1
 
 - Definition:
 
@@ -208,23 +208,10 @@ tags: ["", ""]
 
   
 
-### Phase 2 — Markup (Uptrend)
+### Part 2
 
 - ...
 
-  
-
-### Phase 3 — Distribution
-
-- ...
-
-  
-
-### Phase 4 — Markdown (Downtrend)
-
-- ...
-
-  
 
 ## 4) Signals & Confirmations (Tools)
 
@@ -302,5 +289,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE3ODc4NDBdfQ==
+eyJoaXN0b3J5IjpbMzMyNzc4MDE3XX0=
 -->
