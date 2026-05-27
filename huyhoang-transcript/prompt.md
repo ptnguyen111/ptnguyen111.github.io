@@ -233,19 +233,7 @@ tags: ["", ""]
 - Late-cycle buying traps:
 
 - “Good news at the top” problem:
-
-## Signals & Confirmations (Tools)
-
-- Candlestick cues:
-
-- VSA volume-spread cues:
-
-- Supply/Demand:
-
-- RSI / Relative Strength (if mentioned):
-
-- Moving averages / trend structure (if mentioned):
-  
+ 
 ## Execution Playbook (Entries/Adds/Exits)
 
 - Entry triggers:
@@ -257,7 +245,6 @@ tags: ["", ""]
 - “Do not trade” conditions:
 
   
-
 ## Risk Management & Invalidation
 
 - Stops:
@@ -289,5 +276,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgyNzUzMTZdfQ==
+eyJoaXN0b3J5IjpbMTY4MzUxMjQxN119
 -->
