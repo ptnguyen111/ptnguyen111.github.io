@@ -212,44 +212,7 @@ tags: ["", ""]
 
 - ...
 
-
-## 4) Signals & Confirmations (Tools)
-
-- Candlestick cues:
-
-- VSA volume-spread cues:
-
-- Supply/Demand:
-
-- RSI / Relative Strength (if mentioned):
-
-- Moving averages / trend structure (if mentioned):
-
-  
-
-## 5) Execution Playbook (Entries/Adds/Exits)
-
-- Entry triggers:
-
-- Add-on logic:
-
-- Exit logic:
-
-- “Do not trade” conditions:
-
-  
-
-## 6) Risk Management & Invalidation
-
-- Stops:
-
-- Position sizing (if mentioned):
-
-- Risk traps:
-
-  
-
-## 7) Case Study / Examples Mentioned
+## Case Study / Examples Mentioned
 
 - Example 1:
 
@@ -263,13 +226,52 @@ tags: ["", ""]
 
   
 
-## 8) Common Mistakes & Psychology
+## Common Mistakes & Psychology
 
 - FOMO patterns:
 
 - Late-cycle buying traps:
 
 - “Good news at the top” problem:
+
+## Signals & Confirmations (Tools)
+
+- Candlestick cues:
+
+- VSA volume-spread cues:
+
+- Supply/Demand:
+
+- RSI / Relative Strength (if mentioned):
+
+- Moving averages / trend structure (if mentioned):
+
+  
+
+## Execution Playbook (Entries/Adds/Exits)
+
+- Entry triggers:
+
+- Add-on logic:
+
+- Exit logic:
+
+- “Do not trade” conditions:
+
+  
+
+## Risk Management & Invalidation
+
+- Stops:
+
+- Position sizing (if mentioned):
+
+- Risk traps:
+
+  
+
+
+
 
   
 
@@ -289,5 +291,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNzc4MDE3XX0=
+eyJoaXN0b3J5IjpbLTExODQ1MTc2NTZdfQ==
 -->
