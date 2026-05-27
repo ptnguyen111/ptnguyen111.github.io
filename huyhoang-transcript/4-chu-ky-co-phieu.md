@@ -365,7 +365,8 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 - [ ] stop-loss ở đâu
 
 - [ ] có đang FOMO không
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODE4MDgsMTI5MDIyODgyNyw3MjA1Nj
-M4NDddfQ==
+eyJoaXN0b3J5IjpbLTYxNTM3MDU4LDEyOTAyMjg4MjcsNzIwNT
+YzODQ3XX0=
 -->
