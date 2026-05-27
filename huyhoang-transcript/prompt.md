@@ -245,9 +245,7 @@ tags: ["", ""]
 - RSI / Relative Strength (if mentioned):
 
 - Moving averages / trend structure (if mentioned):
-
   
-
 ## Execution Playbook (Entries/Adds/Exits)
 
 - Entry triggers:
@@ -291,5 +289,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ1MTc2NTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjgyNzUzMTZdfQ==
 -->
