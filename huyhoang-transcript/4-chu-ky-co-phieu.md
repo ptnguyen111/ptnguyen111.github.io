@@ -1,26 +1,14 @@
 ---
 
-  
-
 video_date: ""
 
-  
-
-video_link: "https://www.youtube.com/watch?v=TnnOUOM4j9A"
-
-  
+video_link: "[https://www.youtube.com/watch?v=TnnOUOM4j9A](https://www.youtube.com/watch?v=TnnOUOM4j9A)"
 
 title: "4 giai đoạn chu kỳ cổ phiếu — Timing là tất cả"
 
-  
-
-description: "Ghi chú thực chiến: hiểu chu kỳ + đọc giá/khối lượng để tránh mua sai thời điểm"
-
-  
+description: "Ghi chú cô đọng: hiểu chu kỳ + đọc giá/volume để tránh mua sai thời điểm"
 
 tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
-
-  
 
 ---
 
@@ -30,51 +18,49 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-## Core Insight
+## Key Insight
+
+- Không phải cổ phiếu tốt là mua được
+
+- → **chỉ mua khi đúng thời điểm trong chu kỳ**
 
   
 
-- **Sai lầm lớn nhất**
+---
 
   
 
-- mua **quá muộn** trong chu kỳ → drawdown nhanh (-10% → -50%)
+## Nguyên tắc cốt lõi
+
+- Sai lầm lớn nhất
+
+- mua **quá muộn** trong chu kỳ
+
+- → drawdown nhanh (-10% → -50%)
 
   
 
-- **Edge thực sự**
+- Edge thực sự
+
+- không nằm ở chọn cổ phiếu
+
+- → nằm ở **timing**
 
   
 
-- không phải chọn cổ phiếu
-
-- mà là **chọn đúng timing**
-
-  
-
-- **Xác nhận chính**
-
-  
+- Xác nhận quyết định
 
 - dùng **giá + khối lượng**
 
-- để biết ai đang kiểm soát: cung hay cầu
+- để biết cung / cầu đang chiếm ưu thế
 
   
 
-- **Setup xác suất cao**
+- Nguyên tắc sống còn
 
-  
+- sai phải **cắt nhanh**
 
-- breakout → test (vol thấp) → breakout tiếp
-
-  
-
-- **Nguyên tắc sống còn**
-
-  
-
-- sai phải **cắt nhanh**, không hi vọng
+- → không hi vọng, không gồng
 
   
 
@@ -82,27 +68,31 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-## Chu kỳ thị trường (nhìn nhanh)
+## Chu kỳ thị trường (logic hành vi)
 
   
 
-- **Tích lũy**
+### Tích lũy
 
-  
+- Đặc điểm
 
 - giá đi ngang, biên độ hẹp
 
-- vol thấp, không rõ ràng
-
-- → smart money đang gom
+- khối lượng thấp, không rõ xu hướng
 
   
 
-- chiến lược
+- Bản chất
 
-- ❌ không mua sớm
+- dòng tiền lớn đang gom
 
-- ✅ chờ dấu hiệu breakout
+  
+
+- Cách hành động
+
+- ❌ không mua sớm (dễ bị rung, chôn vốn)
+
+- ✅ chờ tín hiệu breakout
 
   
 
@@ -110,31 +100,37 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Tăng giá (markup)**
+### Tăng giá
+
+- Đặc điểm
+
+- giá break khỏi nền → tăng nhanh
 
   
 
-- giá break nền → tăng nhanh
-
-- vol
+- Khối lượng
 
 - tăng → vol tăng
 
-- chỉnh → vol thấp
+- điều chỉnh → vol thấp
 
   
 
-- chiến lược
+- Bản chất
 
-- ✅ mua breakout hoặc sau test
-
-- ✅ giữ vị thế, có thể add
+- cầu thật tham gia
 
   
 
-- cảnh báo
+- Cách hành động
 
-- tránh FOMO khi đã tăng xa
+- ✅ mua breakout / sau test
+
+- ✅ giữ, có thể gia tăng
+
+  
+
+- ❌ tránh FOMO khi đã tăng xa
 
   
 
@@ -142,13 +138,15 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Phân phối**
+### Phân phối
+
+- Đặc điểm
+
+- giá biến động mạnh, hỗn loạn
 
   
 
-- giá dao động mạnh, hỗn loạn
-
-- vol
+- Khối lượng
 
 - tăng → vol yếu
 
@@ -156,17 +154,17 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- bản chất
+- Bản chất
 
-- smart money xả cho retail
+- dòng tiền lớn xả cho retail
 
   
 
-- chiến lược
+- Cách hành động
 
-- ✅ bán dần
+- ✅ bán dần, giảm vị thế
 
-- ❌ không mua
+- ❌ không mua mới
 
   
 
@@ -174,11 +172,9 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Giảm giá (markdown)**
+### Giảm giá
 
-  
-
-- cấu trúc
+- Đặc điểm
 
 - lower high
 
@@ -186,7 +182,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- vol
+- Khối lượng
 
 - giảm → vol lớn
 
@@ -194,9 +190,17 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- chiến lược
+- Bản chất
+
+- panic selling + bull trap
+
+  
+
+- Cách hành động
 
 - ❌ không bắt đáy
+
+- ❌ không tin hồi
 
 - ✅ đứng ngoài
 
@@ -206,21 +210,15 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-## Setup quan trọng nhất
+## Setup xác suất cao (thực chiến)
 
   
 
-- **Breakout → Test → Breakout**
+- Breakout → Test → Breakout
 
   
 
-- điều kiện
-
-- cuối tích lũy
-
-  
-
-- logic
+- Trình tự
 
 - breakout (vol lớn)
 
@@ -230,19 +228,23 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- ý nghĩa
+- Ý nghĩa
 
-- cung cạn → dễ chạy mạnh
+- cung cạn → giá dễ tăng mạnh
 
   
 
-- cách đánh
+- Cách đánh
 
-- ✅ entry tốt nhất ở lần breakout 2
+- ✅ entry tốt nhất ở breakout lần 2
 
 - ✅ add khi xác nhận
 
-- ❌ fail → cắt ngay
+  
+
+- ❌ nếu fail
+
+- → cắt nhanh (mindset -3% ~ -5%)
 
   
 
@@ -254,9 +256,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Xu hướng khỏe**
-
-  
+- Xu hướng khỏe
 
 - tăng → vol lớn
 
@@ -264,9 +264,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Phân phối**
-
-  
+- Phân phối
 
 - tăng → vol yếu
 
@@ -274,9 +272,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- **Xu hướng giảm**
-
-  
+- Xu hướng giảm
 
 - phá đáy liên tục
 
@@ -288,37 +284,29 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-## Execution (rút gọn)
+## Execution (tối giản)
 
   
 
-- mua
-
-  
+- Mua
 
 - cuối nền / gần breakout
 
   
 
-- giữ
+- Giữ
+
+- khi giá + volume đồng thuận
 
   
 
-- khi giá + vol đồng thuận
-
-  
-
-- bán
-
-  
+- Bán
 
 - khi xuất hiện dấu hiệu phân phối
 
   
 
-- tránh
-
-  
+- Tránh
 
 - giai đoạn hỗn loạn / downtrend
 
@@ -334,33 +322,29 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
 - FOMO
 
-  
-
 - mua vì tin tốt / “không thể giảm”
 
   
 
-- không cắt lỗ
-
-  
+- Không cắt lỗ
 
 - lỗ nhỏ → lỗ lớn → cháy tài khoản
 
   
 
-- bắt đáy
+- Bắt đáy
+
+- tưởng rẻ
+
+- → thực chất đang giảm tiếp
 
   
 
-- tưởng rẻ → tiếp tục giảm
-
-  
-
-- đọc sai volume
-
-  
+- Đọc sai volume
 
 - vol lớn ≠ bullish
+
+- → có thể là xả
 
   
 
@@ -372,7 +356,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 
   
 
-- [ ] cổ phiếu đang ở phase nào
+- [ ] đang ở giai đoạn nào
 
 - [ ] giá + volume có đồng thuận không
 
@@ -381,21 +365,7 @@ tags: ["Wyckoff", "VSA", "Timing", "PriceAction"]
 - [ ] stop-loss ở đâu
 
 - [ ] có đang FOMO không
-
-  
-
----
-
-  
-
-## 1 Insight quan trọng
-
-  
-
-> không phải cổ phiếu tốt là mua được
-
-> → **chỉ mua khi đúng thời điểm trong chu kỳ**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1NDEwNDMsMTI5MDIyODgyNyw3Mj
-A1NjM4NDddfQ==
+eyJoaXN0b3J5IjpbNDY5ODE4MDgsMTI5MDIyODgyNyw3MjA1Nj
+M4NDddfQ==
 -->
