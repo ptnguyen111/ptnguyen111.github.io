@@ -326,14 +326,9 @@ tags: ["", ""]
   
 
 ## Common Mistakes & Psychology
-
 - Behavioral traps:
-
 - Misinterpretations:
-
 - Overconfidence / FOMO patterns:
-
-  
 
 ---
 
@@ -347,5 +342,5 @@ tags: ["", ""]
 
 - [ ] Define risk BEFORE execution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE2NTkyMjYsMTY4MzUxMjQxN119
+eyJoaXN0b3J5IjpbNjUyMjA5NjU2LDE2ODM1MTI0MTddfQ==
 -->
