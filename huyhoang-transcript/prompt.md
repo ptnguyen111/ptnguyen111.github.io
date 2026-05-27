@@ -192,8 +192,7 @@ tags: ["", ""]
 ### subtitle
 ### Key takeaways
 
-
-## Phase Breakdown (Stock Cycle / Wyckoff Lens)
+## Content part 1
 
 ### Phase 1 — Accumulation
 
@@ -303,5 +302,5 @@ tags: ["", ""]
 
 - Is Markdown clean with correct headings and frontmatter?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODExNTUxNF19
+eyJoaXN0b3J5IjpbLTEyMDE3ODc4NDBdfQ==
 -->
